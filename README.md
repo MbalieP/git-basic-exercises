@@ -1,1 +1,1 @@
-i am not really sure what i am doing
+I am not really sure what I am doing, But now i think im strting to understan.
