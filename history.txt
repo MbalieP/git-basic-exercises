@@ -1,0 +1,500 @@
+   32  ls
+   33  cd task1.py
+   34  task1.py
+   35  ls
+   36  code .
+   37  git init
+   38  git add .
+   39  git status
+   40  git commit -m "task1 : complete"
+   41  git push origin main
+   42  git checkout -b task1-branch
+   43  git push origin task1-branch
+   44  cd
+   45  Documents/
+   46  cd Documents/
+   47  cd 'umuzi bootcamp'/
+   48  cd project/
+   49  cd /Mbali-Phulwane-219-level-1-programming-katas-python/
+   50  ls
+   51  [200~Mbali-Phulwane-219-level-1-programming-katas-python/
+   52  cd Mbali-Phulwane-219-level-1-programming-katas-python/
+   53  touch task2.py
+   54  code .
+   55  git branch
+   56  git checkout main
+   57  git pull origin main
+   58  git checkout -b task2-branch
+   59  git add task2.py
+   60  git commit -m "task2 : completed"
+   61  git push origin task2-branch
+   62  git checkout main
+   63  git pull origin main
+   64  git checkot -b task3-branch
+   65  git checkout -b task3-branch
+   66  touch task3.py
+   67  code .
+   68  git checkout main
+   69  git pull origin main
+   70  git checkout -b task2-branch
+   71  touch task2.py
+   72  code .
+   73  git add task2.py
+   74  git commit -m "task2: recreated and completed"
+   75  git push origin task2-branch
+   76  git checkout main
+   77  git pull origin main
+   78  git checkout -b task3-branch
+   79  git add task3.py
+   80  git commit -m "task3: completed"
+   81  git push origin task3-branch
+   82  git checkout main
+   83  git pull origin main
+   84  git checkout -b task4-branch
+   85  touch task4.py
+   86  code .
+   87  git add task4.py
+   88  git commit -m "task4 : completed"
+   89  git push origin task2-branch
+   90  git push origin task4-branch
+   91  git checkout main
+   92  git pull origin main
+   93  git checkout -b task4-branch
+   94  touch task4.py
+   95  code .
+   96  git add task4.py
+   97  git commit -m "task4: completed again"
+   98  git push origin task4-branch
+   99  git checkout main
+  100  git pull origin main
+  101  git checkout -b task4-branch
+  102  git checkout -b task5-branch
+  103  touch task5.py
+  104  code .
+  105  git add task5.py
+  106  git commit -m "task5 : complrted"
+  107  git push origin task5-branch
+  108  git checkout main
+  109  git pull origin main
+  110  git checkout -b task6-branch
+  111  touch task6.py
+  112  code .
+  113  git checkout main
+  114  git pull origin main
+  115  git checkout -b task5-branch
+  116  touch task5.py
+  117  code .
+  118  git add task5.py
+  119  git commit -m "task5 : completed"
+  120  git push origin task5-branch
+  121  git checkout main
+  122  git pull origin main
+  123  git checkout -b task6-branch
+  124  touch task6.py
+  125  code .
+  126  git add task6.py
+  127  git commit -m "task6:complete"
+  128  git push origin task4-branch
+  129  git add task6.py
+  130  git commit -m "task6:complete"
+  131  git push origin task6-branch
+  132  git checkout main 
+  133  git pull origin main
+  134  git checkout -b task7-branch
+  135  touch task7.py
+  136  code .
+  137  git add task7.py
+  138  git commit -m "task7 : complete"
+  139  git push origin task7-branch
+  140  git branch
+  141  git checkout main
+  142  git stash
+  143  git checkout main
+  144  git pull origin main
+  145  ls
+  146  git checkout task1-branch
+  147  git add task1.py
+  148  git commit -m "task1 : recreated and completed"
+  149  git push origin task1-branch
+  150  git push origin task1-branch
+  151  git push origin task1-branch
+  152  git checkout main
+  153  git pull origin main
+  154  git checkout -b task1-branch
+  155  ls
+  156  git checkout -b task2-branch
+  157  ls
+  158  git checkout task1-branch
+  159  ls
+  160  code .
+  161  git add task1.py
+  162  git commit -m "task1 : recreated and completed"
+  163  git push origin task1-branch
+  164  ls
+  165  git checkout task2-branch
+  166  ls
+  167  rm task1.py
+  168  ls
+  169  code .
+  170  code .
+  171  git add task2.py
+  172  git commit -m "task2:recreated and completed"
+  173  git push origin task2-branch
+  174  git checkout task3-branch
+  175  ls
+  176  rm task1.py
+  177  ls
+  178  touch task3.py 
+  179  ls
+  180  code .
+  181  git add task3.py
+  182  git commit -m "task3: recreated and completed"
+  183  git push origin task3-branch
+  184  code .
+  185  git checkout main
+  186  git remove
+  187  ls
+  188  rm task2.py
+  189  ls
+  190  git checkout task3.py
+  191  code .
+  192  git add task3.py
+  193  git commit -m "task3: recreated and completed"
+  194  git push origin task3-branch
+  195  git checkout task4-branch
+  196  ls
+  197  rm task2
+  198  rm task2.py
+  199  rm task3.py
+  200  ls
+  201  touch task4.py
+  202  code .
+  203  git add task4.py
+  204  git commit -m "task4:recreated and completed"
+  205  git push origin task4-branch
+  206  git checkout task5-branch
+  207  ls
+  208  rm task4.py
+  209  ls
+  210  touch task5.py
+  211  code .
+  212  git add task5.py
+  213  git ass task5.py
+  214  git add task5.py
+  215  git commit -m "task5:recreated and completed" 
+  216  git push origin task5-branch
+  217  ls
+  218  git checkout task6-branch
+  219  ls
+  220  touch task6.py
+  221  ls
+  222  code .
+  223  git add task6.py
+  224  git add task6.py
+  225  git commit -m "task6: recreated and completed"
+  226  git push origin task6-branch
+  227  git checkout task7-branch
+  228  ls
+  229  rm task5.py
+  230  rm task6.py
+  231  ls
+  232  touch task7.py
+  233  code .
+  234  git add task7.py
+  235  git commit -m "task7: recreated and completed"
+  236  git push origin task7-branch
+  237  git checkout main
+  238  git branch
+  239  git branch -D task1-branch
+  240  git branch -D task2-branch
+  241  git branch -D task3-branch
+  242  git branch -D task4-branch
+  243  git branch -D task5-branch
+  244  git branch -D task6-branch
+  245  git branch -D task7-branch
+  246  git push origin --delete task1-branch
+  247  git push origin --delete task2-branch
+  248  git push origin --delete task3-branch
+  249  git push origin --delete task4-branch
+  250  git push origin --delete task5-branch
+  251  git push origin --delete task6-branch
+  252  git push origin --delete task7-branch
+  253  git push origin --delete task7-branch
+  254  git checkout --orphan new_branch
+  255  git rm -rf
+  256  git rm -rf .
+  257  git commit -m "Remove all files"
+  258  git checkout main
+  259  git pull origin main
+  260  git checkout -b task1-branch
+  261  touch task1.py
+  262  ls
+  263  touch task1.py
+  264  code .
+  265  git add task1.py
+  266  git commit -m "task1:final"
+  267  git push origin task1-branch
+  268  git checkout --orphan new_main
+  269  git rm -rf .
+  270  echo "# New Beginning" >> README.md
+  271  git commit -m "Initial commit"
+  272  git branch -D main
+  273  git branch -m main
+  274  git push --force origin main
+  275  ls
+  276  ls
+  277  git pull origin main
+  278  git checkout main
+  279  git move
+  280  ls
+  281  git checkout main
+  282  git stash -u
+  283  cd
+  284  cd Documents/
+  285  cd 'umuzi bootcamp'
+  286  cd project
+  287  cd Mbali-Phulwane-219-level-1-programming-katas-python
+  288  ls
+  289  git checkout -b task/1
+  290  touch task/1.py
+  291  touch task1.py
+  292  code .
+  293  git checkout main
+  294  cd..
+  295  cd . .
+  296  cd
+  297  cd Documents
+  298  cd 'umuzi bootcamp'
+  299  cd project
+  300  cd /Mbali-Phulwane-219-level-1-programming-katas-python
+  301  cd Mbali-Phulwane-219-level-1-programming-katas-python
+  302  ls
+  303  rm README.md
+  304  ls
+  305  touch task1.py
+  306  code .
+  307  git add task1.py
+  308  git commit -m "task1: final"
+  309  git push origin task/1-branch
+  310  git clone [200~git@gitlab.wethinkco.de:mbphulwjhb024/spam-detection.git~
+  311  git clone git@gitlab.wethinkco.de:mbphulwjhb024/spam-detection.git
+  312  [200~
+  313  cat ~/.ssh/id_rsa.pub
+  314  cd
+  315  cd Documents
+  316  ls
+  317  cd wethinkcodeofficial
+  318  ls
+  319  git clone [200~git@gitlab.wethinkco.de:mbphulwjhb024/spam-detection.git~
+  320  git clone git@gitlab.wethinkco.de:mbphulwjhb024/spam-detection.git
+  321  code .
+  322  cd
+  323  cd Documents
+  324  cd wethinkcodeofficial
+  325  ls
+  326  cd "spam-detection/
+  327  cd 'spam-detection'/
+  328  ls
+  329  cd . .
+  330  cd
+  331  pwd
+  332  code .
+  333  clear
+  334  cd 'spam-detection/'
+  335  cd Documents
+  336  cd Documents/
+  337  pwd
+  338  ls
+  339  cd Documents/
+  340  cd documents
+  341  cd documents/
+  342  ls
+  343  cd
+  344  cd documents/
+  345  ls
+  346  cd wethinkcode
+  347  cd wethinkcode/
+  348  cd wethinkcodeofficial
+  349  ls
+  350  git clone git@github.com:MbalieP/DataStructures.git
+  351  git clone git@github.com:MbalieP/DataStructures.git
+  352  git clone [200~https://github.com/MbalieP/DataStructures.git~
+  353  git clone https://github.com/MbalieP/DataStructures.git
+  354  ls
+  355  cd DataStructures/
+  356  code .
+  357  python3 -m unittest test_data_structures.py
+  358  python3 -m unittest test_data_structures.py
+  359  python -m unittest test_data_structures.py
+  360  ls
+  361  ls
+  362  python -m unittest test_data_structures.py
+  363  python -m unittest test_data_structures.py
+  364  ls
+  365  cd tests/
+  366  ls
+  367  import sys
+  368  import os
+  369  # Add the parent directory of `data_structures.py` to the system path
+  370  sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+  371  import data_structures
+  372  ls
+  373  [200~python -m unittest discover -s tests~
+  374  python -m unittest discover -s tests
+  375  python -m unittest discover -s tests
+  376  git init
+  377  git add .
+  378  git commit -m " best attempt"
+  379  git branch -M main
+  380  git remote add origin https://github.com/MbalieP/DataStructures.git
+  381  git push -u origin main
+  382  git pull origin main --rebase
+  383  git rebase --continue
+  384  git push -u origin main
+  385  cd
+  386  cd documents/
+  387  cd wethinkcodeofficial/
+  388  mkdir chess-fen-viewer
+  389  cd chess-fen-viewer
+  390  git init
+  391  mkdir .lms
+  392  touch .lms/exercises.toml
+  393  code .
+  394  git add .
+  395  git commit -m "1st attempt on fen strings"
+  396  git remote add origin git@gitlab.wethinkco.de:mbphulwjhb024/fen-strings.git
+  397  git push -u origin main
+  398  git clone git@gitlab.wethinkco.de:mbphulwjhb024/fen-strings.git
+  399  code .
+  400  git push
+  401  [200~git push --set-upstream origin master
+  402  git push --set-upstream origin master
+  403  git push
+  404  git clone git@gitlab.wethinkco.de:mbphulwjhb024/fen-strings.git
+  405  ls
+  406  cd fen-strings/
+  407  ls
+  408  code .
+  409  mkdir chess-fen-viewer
+  410  cd chess-fen-viewer
+  411  git init
+  412  mkdir .lms
+  413  touch .lms/exercises.toml
+  414  code .
+  415  ls
+  416  git add .
+  417  git commit -m "fen strings 1st attempt"
+  418  git push
+  419  git remote add origin git@gitlab.wethinkco.de:mbphulwjhb024/fen-strings.git
+  420  git push -u origin main
+  421  git remote add origin https://gitlab.wethinkco.de/mbphulwjhb024/fen-strings.git
+  422  git push -u origin main
+  423  git push
+  424  git push --set-upstream origin master
+  425  git pull
+  426  git commit -m " 1st attempt"
+  427  git push
+  428   git push --set-upstream origin master
+  429  ls
+  430  cd
+  431  cd documents?
+  432  cd documents/
+  433  cd wethinkcodeofficicial
+  434  cd wethinkcodeofficial/
+  435  ls
+  436  git clone git@gitlab.wethinkco.de:mbphulwjhb024/fen-strings.git
+  437  ls
+  438  cd fen-stings/
+  439  cd fen-srings/
+  440  cd fen-strings/
+  441  mkdir chess-fen-viewer
+  442  ls
+  443  cd chess-fen-viewer
+  444  git init
+  445  mkdir .lms
+  446  touch .lms/exercises.toml
+  447  code .
+  448  ls
+  449  git add .
+  450  git commit -m "attempt on fen strings"
+  451  git push
+  452  git remote add origin git@gitlab.wethinkco.de:mbphulwjhb024/fen-strings.git
+  453  git push -u origin main
+  454  git branch
+  455  git push -u origin master
+  456  git pull origin master --rebase
+  457  git push -u origin master
+  458  git pull origin master --rebase
+  459  git status
+  460  <<<<<<< HEAD
+  461  Your changes
+  462  =======
+  463  Changes from remote
+  464  >>>>>>> branch-name
+  465  git add 
+  466  git add .
+  467  git rebase --continue
+  468  cd
+  469  cd documents/
+  470  ls
+  471  cd "umuzi bootcamp"
+  472  ls
+  473  mkdir git-basic-excercises
+  474  ls
+  475  cd git-basic-exercises
+  476  ls
+  477  cd git-basic-exercises
+  478  cd git-basic-exercises/
+  479  cd git-basic-exercises/
+  480  is -a
+  481  ls -a
+  482  git init
+  483  ls -a
+  484  git status
+  485  touch README.md
+  486  ls -a
+  487  git status
+  488  git log
+  489  git add README.md
+  490  git status
+  491  git reset README.md
+  492  git status
+  493  git add README.md
+  494  git commit -m "initial commit"
+  495  git log
+  496  q
+  497  nano README.md
+  498  code . README.md
+  499  nano README.md
+  500  cat README.MD
+  501  git status
+  502  git add README.md
+  503  git commit -m "second commit"
+  504  nano README.md
+  505  git add README.md
+  506  git commit -m "third commit"
+  507  git log
+  508  q
+  509  git checkout  9a213130a4021af431f1101dad6d68bc25e1a291
+  510  cat README.md
+  511  git checkout main
+  512  git checkout master
+  513  cat README.md
+  514  git branch
+  515  git branch milkshake-flavours
+  516  git branch
+  517  git checkout milkshake-flavours
+  518  git branch
+  519  nano milkshakes.md
+  520  git status
+  521  git add milkshakes.md
+  522  git commit -m "added initial flavours"
+  523  git log
+  524  git checkout master
+  525  git checkout main
+  526  git checkout master
+  527  git branch history
+  528  git checkout history
+  529  git log
+  530  git branch
+  531  history > history.txt
